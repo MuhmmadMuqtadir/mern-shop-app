@@ -1,0 +1,36 @@
+.home-container {
+  text-align: center;
+  margin-top: 100px;
+  font-family: Arial, sans-serif;
+}
+
+.shop-name {
+  font-size: 40px;
+  color: green;
+}
+
+.tagline {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.portal-btn {
+  padding: 15px 25px;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+.portal-btn:hover {
+  background-color: #0056b3;
+}
